@@ -10,5 +10,7 @@ public class GitTest {
 	public static void main(String[] args) {
 	    System.out.println("Git is COOL");
 	    System.out.println("HP: Git is what it is!");
+	    //HP ADD comment1 2016-09-23
+	    //HP ADD comment2 2016-09-23
 	  }
 }
