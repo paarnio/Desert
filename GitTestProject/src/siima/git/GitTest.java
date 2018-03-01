@@ -14,5 +14,6 @@ public class GitTest {
 	    //HP ADD comment1 2016-09-23
 	    //HP ADD comment2 2016-09-23
 	    //Change A_two
+	    System.out.println("TWO: branch sumValues");
 	  }
 }
