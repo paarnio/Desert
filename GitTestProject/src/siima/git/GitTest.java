@@ -2,7 +2,7 @@
  * http://www.vogella.com/tutorials/EclipseGit/article.html#create-a-new-git-repository-via-eclipse
  * 
  * Change A_one
- * Change Y_two
+ * Change X_oneY_two
  */
 
 package siima.git;
