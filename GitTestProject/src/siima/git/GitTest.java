@@ -1,7 +1,7 @@
 /*
  * http://www.vogella.com/tutorials/EclipseGit/article.html#create-a-new-git-repository-via-eclipse
  * 
- * 
+ * Change A_one
  */
 
 package siima.git;
