@@ -8,6 +8,9 @@
 package siima.git;
 
 public class GitTest {
+	
+	int data[] = {-1, 0, 4, 42, 84};
+	
 	public static void main(String[] args) {
 	    System.out.println("Git is COOL");
 	    System.out.println("HP: Git is what it is!");
